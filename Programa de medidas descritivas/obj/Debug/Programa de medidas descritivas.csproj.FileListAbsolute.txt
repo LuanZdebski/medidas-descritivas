@@ -1,0 +1,10 @@
+C:\Users\luanm\Desktop\Estatistica\Programa de medidas descritivas\Programa de medidas descritivas\bin\Debug\Programa de medidas descritivas.exe.config
+C:\Users\luanm\Desktop\Estatistica\Programa de medidas descritivas\Programa de medidas descritivas\bin\Debug\Programa de medidas descritivas.exe
+C:\Users\luanm\Desktop\Estatistica\Programa de medidas descritivas\Programa de medidas descritivas\bin\Debug\Programa de medidas descritivas.pdb
+C:\Users\luanm\Desktop\Estatistica\Programa de medidas descritivas\Programa de medidas descritivas\obj\Debug\Programa de medidas descritivas.csprojAssemblyReference.cache
+C:\Users\luanm\Desktop\Estatistica\Programa de medidas descritivas\Programa de medidas descritivas\obj\Debug\Programa_de_medidas_descritivas.Form1.resources
+C:\Users\luanm\Desktop\Estatistica\Programa de medidas descritivas\Programa de medidas descritivas\obj\Debug\Programa_de_medidas_descritivas.Properties.Resources.resources
+C:\Users\luanm\Desktop\Estatistica\Programa de medidas descritivas\Programa de medidas descritivas\obj\Debug\Programa de medidas descritivas.csproj.GenerateResource.cache
+C:\Users\luanm\Desktop\Estatistica\Programa de medidas descritivas\Programa de medidas descritivas\obj\Debug\Programa de medidas descritivas.csproj.CoreCompileInputs.cache
+C:\Users\luanm\Desktop\Estatistica\Programa de medidas descritivas\Programa de medidas descritivas\obj\Debug\Programa de medidas descritivas.exe
+C:\Users\luanm\Desktop\Estatistica\Programa de medidas descritivas\Programa de medidas descritivas\obj\Debug\Programa de medidas descritivas.pdb
